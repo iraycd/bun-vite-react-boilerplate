@@ -1,8 +1,28 @@
 # Vite React Boilerplate
 
-![](/public/vite-react-boilerplate.png)
-
 Everything you need to kick off your next Vite + React web app!
+
+## Tech Stack
+
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![TanStack Router](https://img.shields.io/badge/TanStack%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack%20Table-%23FFA500.svg?style=for-the-badge&logo=react-table&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23593D88.svg?style=for-the-badge)
+
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
+![Nivo](https://img.shields.io/badge/Nivo-%23FF6B6B.svg?style=for-the-badge)
 
 ## Table of Contents
 
